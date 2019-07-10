@@ -1,4 +1,5 @@
 # Create react app with no code split
+## generate single file from build without ejecting create-react-app webpack config
 
 ### git clone https://github.com/Sandeep821/create-recat-app-with-no-code-split.git
 ### cd create-recat-app-with-no-code-split
