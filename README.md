@@ -1,7 +1,7 @@
 # Create recat app with no code split
 
-### git clone githuburl...
-### cd project folder
+### git clone https://github.com/Sandeep821/create-recat-app-with-no-code-split.git
+### cd create-recat-app-with-no-code-split
 ### npm install
 ### npm run build to get generate build
 ### find one main.js file in build/static/js
