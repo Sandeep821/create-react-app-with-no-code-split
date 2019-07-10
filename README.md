@@ -1,4 +1,4 @@
-# Create recat app with no code split
+# Create react app with no code split
 
 ### git clone https://github.com/Sandeep821/create-recat-app-with-no-code-split.git
 ### cd create-recat-app-with-no-code-split
